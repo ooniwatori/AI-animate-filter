@@ -16,9 +16,10 @@ And input image path to.
 img_path = 'path/to/image'
 ```
 Run server.py.<br />
-![image](https://github.com/ooniwatori/2DFFT-system/blob/main/demo/demo1.png)<br />
 
-Application would show FFT result. Also you can select filter and change parameters.<br />
+Also before runing application, you should know your computer's LAN IP.
+Then change to same IP reference in application's code.
+Run Application on your phone. Finally you can take a photo then transform with AI-prompt.<br />
 ![image](https://github.com/ooniwatori/2DFFT-system/blob/main/demo/demo2.png)<br /><br />
 
 
