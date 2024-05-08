@@ -1,5 +1,5 @@
 # AI　animate　filter
-A client-server application for applying AI animate filter on picture
+A client-server application for applying AI animate filter on picture.
 
 
 # DEMO
@@ -28,10 +28,10 @@ Run Application on your phone. Finally you can take a photo then transform with 
 
 # Features
 
-Application can apply 2DFFT on image data. Also can apply filtering in frequency domain then show filtering result.
+Application can apply AI animate filter on picture by client-server architecture.
 
 # Environments 
 
-* Language Java SDK 17.0.1
-* Compiler [Eclipse](https://www.eclipse.org/).
+* Language Python 3.10.11
+* Compiler [PyCharm](https://www.jetbrains.com/ja-jp/pycharm/).
 * OS Microsoft Windows10 pro
