@@ -6,9 +6,14 @@ An application for simulating FFT apply on image data.
 
 # DEMO
 
-Before you run server.py, you should check path to AD_MODEL_PATH.
+Before running server.py, you should check path to AD_MODEL_PATH.
 ```
 APD_MODEL_PATH = 'path/to/model'
+```
+
+And input image path to.
+```
+img_path = 'path/to/image'
 ```
 Run server.py.<br />
 ![image](https://github.com/ooniwatori/2DFFT-system/blob/main/demo/demo1.png)<br />
