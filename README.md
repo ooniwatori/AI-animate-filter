@@ -4,7 +4,7 @@ A client-server application for applying AI animate filter on picture.
 
 # DEMO
 
-Before running server.py, you should check path to AD_MODEL_PATH. You can download MODEL file from  [Hugging Face](https://huggingface.co/) or somewhere.
+Before running server.py, you should check path to APD_MODEL_PATH. You can download MODEL file from  [Hugging Face](https://huggingface.co/) or somewhere.
 ```
 APD_MODEL_PATH = 'path/to/model'
 ```
