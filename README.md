@@ -34,4 +34,4 @@ Application can apply AI animate filter on picture by client-server architecture
 
 * Language Python 3.10.11
 * Compiler [PyCharm](https://www.jetbrains.com/ja-jp/pycharm/), [MIT AppInventor](https://appinventor.mit.edu/)
-* OS Microsoft Windows10 pro
+* OS Microsoft Windows10 pro, Android 13
