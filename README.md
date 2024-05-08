@@ -16,7 +16,7 @@ img_path = 'path/to/image'
 Run server.py.<br />
 
 Also before runing application, you should know your computer's LAN IP.
-Then change to same IP reference in application's code.
+Then change to same IP reference in application's code.<br />
 ![image](https://github.com/ooniwatori/AI-animate-filter/blob/main/code%20screenshot.png)<br />
 
 Run Application on your phone. Finally you can take a photo then transform with AI-prompt.<br />
